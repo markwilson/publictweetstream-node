@@ -1,0 +1,17 @@
+{
+  "author": "Mark Wilson <mark@89allport.co.uk> (http://89allport.co.uk/)",
+  "name": "publictweetstream",
+  "description": "Stream tweets from Twitter",
+  "version": "0.1.0",
+  "homepage": "https://github.com/markwilson/tweetstream-node",
+  "repository": {
+    "url": "git://github.com/markwilson/tweetstream-node.git"
+  },
+  "main": "main",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
