@@ -1,6 +1,6 @@
 Example usage:-
 
-var TweetStream = require('tweetstream');
+var TweetStream = require('publictweetstream');
 
 var stream = new TweetStream({
 	track: [

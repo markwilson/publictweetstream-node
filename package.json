@@ -3,9 +3,10 @@
   "name": "publictweetstream",
   "description": "Stream tweets from Twitter",
   "version": "0.1.0",
-  "homepage": "https://github.com/markwilson/tweetstream-node",
+  "homepage": "http://github.com/markwilson/publictweetstream-node",
   "repository": {
-    "url": "git://github.com/markwilson/tweetstream-node.git"
+    "type": "git",
+    "url": "git://github.com/markwilson/publictweetstream-node.git"
   },
   "main": "main",
   "dependencies": {},
